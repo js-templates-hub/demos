@@ -1,0 +1,23 @@
+1:"$Sreact.fragment"
+2:I[7213,[],"ClientSegmentRoot"]
+3:I[9514,["177","static/chunks/app/layout-a98ea7d36f1d194f.js"],"default"]
+4:I[4206,[],""]
+5:I[4660,[],""]
+6:I[9143,["960","static/chunks/960-eca38123dd9dcd44.js","927","static/chunks/927-a08693d097e941ff.js","345","static/chunks/app/not-found-c7033e5fd936bcab.js"],"default"]
+8:I[2005,["960","static/chunks/960-eca38123dd9dcd44.js","927","static/chunks/927-a08693d097e941ff.js","502","static/chunks/app/sign-in/page-7962e27653eb062e.js"],"default"]
+9:I[790,[],"OutletBoundary"]
+c:I[7142,[],"AsyncMetadataOutlet"]
+e:I[790,[],"ViewportBoundary"]
+10:I[790,[],"MetadataBoundary"]
+12:I[8025,[],""]
+:HL["/laytr/next/_next/static/css/8f5ec2d570203d1f.css","style"]
+0:{"P":null,"b":"x5mixo7GOa0IVjRs_aefr","p":"/laytr/next","c":["","sign-in"],"i":false,"f":[[["",{"children":["sign-in",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/laytr/next/_next/static/css/8f5ec2d570203d1f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{"page":{"id":"not-found","link":"/not-found","sections":{"Laytr404":{"id":"not-found_rfepj","file":"Laytr404","label":"404 Section","containerClasses":"py-8 lg:py-12 ","data":{"title":"404! Oops page not found.","text":"The page you are trying to reach might be removed or doesn't exist.","items":[{"button":{"label":"Home","href":"/home","newTab":false,"type":"button"}}]}}},"containerClasses":"max-w-[140rem] mx-auto ","seo":{"title":"404! Oops page not found.","description":"This page is not found."}}}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@7"}]]}],{"children":["sign-in",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L8",null,{"page":{"id":"sign-in","link":"/sign-in","sections":{"LaytrSignIn":{"id":"sign-in_yk7nm","file":"LaytrSignIn","label":"Sign In/Login","data":{"title":"Sign In","label":"Please sign in to continue...","text":"Don't have an account? <a href='/sign-up'>Create account</a>","img":{"alt":"signin cover img","src":"./images/2.webp"},"items":[{"label":"Google","img":{"alt":"google login","src":"./images/google-icon.svg"}},{"label":"Facebook","img":{"alt":"facebook login","src":"./images/facebook.svg"}}],"form":{"items":[{"input":{"type":"email","value":"","label":"Email","placeholder":"Enter your email","name":"email","required":true}},{"input":{"type":"password","value":"","label":"Password","placeholder":"Enter password","name":"password","required":true}},{"input":{"type":"submit","value":"","label":"Sign In","name":"submit"}}],"method":"POST","action":"#","useSubmitFunc":true,"itemsLabelClasses":" ","itemsContainerClasses":" ","itemsInputClasses":"rounded-xl "},"formClasses":"flex flex-wrap lg:max-w-lg w-full mx-auto "}}},"containerClasses":"max-w-[140rem] mx-auto ","seo":{"title":"Already Have an account - signin","description":"Already Have an account - signin"}}}],null,["$","$L9",null,{"children":["$La","$Lb",["$","$Lc",null,{"promise":"$@d"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","TgwAzBc3ulR5wNz_r5Q4ev",{"children":[["$","$Le",null,{"children":"$Lf"}],null]}],["$","$L10",null,{"children":"$L11"}]]}],false]],"m":"$undefined","G":["$12","$undefined"],"s":false,"S":true}
+13:"$Sreact.suspense"
+14:I[7142,[],"AsyncMetadata"]
+7:{}
+11:["$","div",null,{"hidden":true,"children":["$","$13",null,{"fallback":null,"children":["$","$L14",null,{"promise":"$@15"}]}]}]
+b:null
+f:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+a:null
+d:{"metadata":[["$","title","0",{"children":"Already Have an account - signin"}],["$","meta","1",{"name":"description","content":"Already Have an account - signin"}]],"error":null,"digest":"$undefined"}
+15:{"metadata":"$d:metadata","error":null,"digest":"$undefined"}

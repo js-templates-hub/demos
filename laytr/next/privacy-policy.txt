@@ -1,0 +1,38 @@
+1:"$Sreact.fragment"
+2:I[7213,[],"ClientSegmentRoot"]
+3:I[9514,["177","static/chunks/app/layout-a98ea7d36f1d194f.js"],"default"]
+4:I[4206,[],""]
+5:I[4660,[],""]
+6:I[9143,["960","static/chunks/960-eca38123dd9dcd44.js","927","static/chunks/927-a08693d097e941ff.js","345","static/chunks/app/not-found-c7033e5fd936bcab.js"],"default"]
+8:I[630,["960","static/chunks/960-eca38123dd9dcd44.js","158","static/chunks/158-2c31f042c1668575.js","927","static/chunks/927-a08693d097e941ff.js","902","static/chunks/app/privacy-policy/page-fd38fb5b4532bbe0.js"],"default"]
+a:I[790,[],"OutletBoundary"]
+d:I[7142,[],"AsyncMetadataOutlet"]
+f:I[790,[],"ViewportBoundary"]
+11:I[790,[],"MetadataBoundary"]
+13:I[8025,[],""]
+:HL["/laytr/next/_next/static/css/8f5ec2d570203d1f.css","style"]
+9:T905,<div class='prose lg:prose-xl'>
+      <p class='my-4'>This is a sample page body. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+        Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <p class='my-4'>
+        This is a sample page body. <b>lorem ipsum dolor</b> sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        This is a sample page body. lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        <h2 class='text-4xl text-bold my-4'>This is sub title</h2>
+        <p class='my-4'>
+        This is a sample page body. This is a sample page body. lorem ipsum dolor sit amet, consectetur.
+        </p>
+        <p class='my-4'>
+        This is a sample page body. lorem ipsum dolor sit amet, consectetur adipiscing elit. <b>Sed do eiusmod</b> tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+        </p>
+        </div>
+        0:{"P":null,"b":"x5mixo7GOa0IVjRs_aefr","p":"/laytr/next","c":["","privacy-policy"],"i":false,"f":[[["",{"children":["privacy-policy",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/laytr/next/_next/static/css/8f5ec2d570203d1f.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","$L6",null,{"page":{"id":"not-found","link":"/not-found","sections":{"Laytr404":{"id":"not-found_rfepj","file":"Laytr404","label":"404 Section","containerClasses":"py-8 lg:py-12 ","data":{"title":"404! Oops page not found.","text":"The page you are trying to reach might be removed or doesn't exist.","items":[{"button":{"label":"Home","href":"/home","newTab":false,"type":"button"}}]}}},"containerClasses":"max-w-[140rem] mx-auto ","seo":{"title":"404! Oops page not found.","description":"This page is not found."}}}],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]},"params":{},"promise":"$@7"}]]}],{"children":["privacy-policy",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":[["$","$L8",null,{"page":{"id":"privacy-policy","link":"/privacy-policy","sections":{"LaytrNavbar":{"id":"navbar_mpzzc","file":"LaytrNavbar","label":"Navbar","containerClasses":"z-10 ","data":{"title":"Laytr","img":{"alt":"Laytr Logo","src":"./images/logo.svg"},"items":[{"button":{"label":"Contact Us","href":"/contact-us","type":"link","newTab":false}},{"button":{"label":"Privacy policy","href":"/privacy-policy","newTab":false,"type":"link"}},{"button":{"label":"Sign Up","href":"/sign-up","newTab":false,"type":"button"}},{"button":{"label":"Sign In","href":"/sign-in","newTab":false,"type":"button"}}]}},"LaytrPageBody":{"id":"page-body_0c7wb","file":"LaytrPageBody","label":"Page Body","containerClasses":"py-8 lg:py-12 max-w-6xl px-2 md:mx-8 lg:mx-auto ","data":{"title":"This is a sample page title","text":"$9"}}},"containerClasses":"max-w-[140rem] mx-auto ","seo":{"title":"Privacy Policy Page","description":"Checkout our privacy policy page."}}}],null,["$","$La",null,{"children":["$Lb","$Lc",["$","$Ld",null,{"promise":"$@e"}]]}]]}],{},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","kKlYnZIUV-ItgV46tW5Oyv",{"children":[["$","$Lf",null,{"children":"$L10"}],null]}],["$","$L11",null,{"children":"$L12"}]]}],false]],"m":"$undefined","G":["$13","$undefined"],"s":false,"S":true}
+14:"$Sreact.suspense"
+15:I[7142,[],"AsyncMetadata"]
+7:{}
+12:["$","div",null,{"hidden":true,"children":["$","$14",null,{"fallback":null,"children":["$","$L15",null,{"promise":"$@16"}]}]}]
+c:null
+10:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+b:null
+e:{"metadata":[["$","title","0",{"children":"Privacy Policy Page"}],["$","meta","1",{"name":"description","content":"Checkout our privacy policy page."}]],"error":null,"digest":"$undefined"}
+16:{"metadata":"$e:metadata","error":null,"digest":"$undefined"}
