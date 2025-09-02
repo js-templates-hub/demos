@@ -1,0 +1,1 @@
+import{at as o,d as a,au as s,a6 as n}from"./D-VUwDlM.js";import{u as r}from"./MQAObM-T.js";const u=()=>o("color-mode").value,p=a({__name:"FullPageLayout",setup(i){const e=s().meta.seo;return r({title:e.title,meta:[{name:"viewport",content:"width=device-width, initial-scale=1"},{name:"description",content:e.description}]}),u(),(t,d)=>n(t.$slots,"default")}});export{p as default};
